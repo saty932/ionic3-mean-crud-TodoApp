@@ -53,3 +53,4 @@ For Ios platform
 $  cordova platform add ios
 $  cordova run ios
 ```
+
