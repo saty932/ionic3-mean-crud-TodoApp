@@ -19,13 +19,11 @@
     "jsonwebtoken":"*",
     "body-parser":"*",
     "passport":"*",
-    "passport-jwt":"*",
-    "canvas": "1.6.2",
-    "canvasfilters": "git://github.com/kig/canvasfilters.git"
+    "passport-jwt":"*"
   },
   "config": {
     "ionic_copy": "./scripts/copy-custom-libs.js"
   },
-  "author": "Brad Traversy",
+  "author": "Sathish",
   "license": "ISC"
 }
